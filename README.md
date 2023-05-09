@@ -4,13 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Project One](https://project1.company/)
-
-- 🔭 I’m currently working on [Health 360](http://health-360.co/)
-
 - 🌱 I’m currently learning **Data security and Artificial Intelligence.**
-
-- 👯 🔭 I’m currently working on [IoT Kids](https://iotkidsiq.com/)
 
 - 👨‍💻 All of my projects are available at [https://project1.company/](https://project1.company/)
 
