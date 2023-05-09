@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Data security and Artificial Intelligence.**
 
-- 👨‍💻 All of my projects are available at [https://project1.company/](https://project1.company/)
-
 - 💬 Ask me about **React js ,React Naive ,Vue ,Python ,C# , etc.**
 
 - 📫 How to reach me **montadr9988@gmail.com**
